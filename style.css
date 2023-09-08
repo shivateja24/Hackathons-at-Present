@@ -1,6 +1,8 @@
 body {
     background-color: red;
+    display : flex;
 }
 p {
     font-size: 12px;
+    
 }
